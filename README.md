@@ -124,6 +124,7 @@
 - [https://github.com/react-community/create-react-native-app](https://github.com/react-community/create-react-native-app)
     - archived 
     - Create a React Native app on any OS with no build config.
+    - https://github.com/expo/expo-cli
 
 ---
 - [https://github.com/expressjs/express](https://github.com/expressjs/express)
