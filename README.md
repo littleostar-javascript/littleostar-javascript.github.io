@@ -185,7 +185,11 @@
 ---
 - [https://github.com/HerringtonDarkholme/typescript-repl](https://github.com/HerringtonDarkholme/typescript-repl)
     - An upgraded TypeScript REPL
-  
+
+---
+- [https://github.com/discountry/react](https://github.com/discountry/react)
+  - React docs in Chinese | React 中文文档翻译 https://doc.react-china.org/
+
 --- 
 
 ---
